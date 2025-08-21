@@ -1,1 +1,1 @@
-sonatype/nexus3:3.78.3
+apache/skywalking-oap-server:10.2.0
