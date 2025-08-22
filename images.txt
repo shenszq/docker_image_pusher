@@ -1,1 +1,1 @@
-apache/skywalking-ui:10.2.0
+lampnick/doctron
