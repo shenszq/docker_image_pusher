@@ -1,1 +1,1 @@
-node:20-alpine
+bytebase/dbhub:0.11.3
