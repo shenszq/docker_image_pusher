@@ -1,1 +1,1 @@
-bootloader:2.0.0
+airbyte/bootloader:2.0.0
