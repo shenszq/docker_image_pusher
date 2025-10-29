@@ -1,2 +1,1 @@
-airbyte/db:2.0.0
-minio/minio:RELEASE.2023-11-20T22-40-07Z
+bootloader:2.0.0
