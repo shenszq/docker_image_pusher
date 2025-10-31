@@ -1,8 +1,7 @@
 airbyte/connector-builder-server:2.0.0
 airbyte/cron:2.0.0
-airbyte/webapp:2.0.0
 airbyte/worker:2.0.0
 airbyte/workload-api-server:2.0.0
 airbyte/workload-launcher:2.0.0
-airbyte/server:2.0.0
 temporalio/auto-setup:1.27.2
+airbyte/server:2.0.0
