@@ -1,1 +1,13 @@
+airbyte/airbyte-base-java-image:3.3
+airbyte/bootloader:1.7.8
+airbyte/connector-builder-server:1.7.8
+airbyte/cron:1.7.8
+airbyte/db:1.7.8
+airbyte/minio:RELEASE.2023-11-20T22-40-07Z
+airbyte/minio:RELEASE.2023-11-20T22-40-07Z
+airbyte/server:1.7.8
 airbyte/webapp:1.7.8
+airbyte/worker:1.7.8
+airbyte/workload-api-server:1.7.8
+airbyte/workload-launcher:1.7.8
+temporalio/auto-setup:1.27.2
