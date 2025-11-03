@@ -1,1 +1,1 @@
-airbyte/workload-init-container:1.7.8
+airbyte/source-mysql:3.51.1
