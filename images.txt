@@ -1,1 +1,1 @@
-airbyte/webapp:2.0.1
+airbyte/webapp:1.7.8
