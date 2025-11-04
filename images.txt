@@ -1,1 +1,1 @@
-airbyte/destination-mysql:1.1.1
+airbyte/container-orchestrator:1.7.8
