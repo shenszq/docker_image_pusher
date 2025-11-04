@@ -1,1 +1,1 @@
-airbyte/connector-sidecar:1.7.8
+airbyte/destination-mysql:1.1.1
