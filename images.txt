@@ -1,1 +1,1 @@
-airbyte/source-mysql:3.51.1
+airbyte/connector-sidecar:1.7.8
