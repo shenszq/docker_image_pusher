@@ -1,1 +1,1 @@
-altinity/clickhouse-server:24.8.14.10544.altinitystable
+altinity/clickhouse-operator:0.25.5
