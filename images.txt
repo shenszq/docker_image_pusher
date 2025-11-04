@@ -1,1 +1,1 @@
-altinity/clickhouse-server:24.4.1.2088
+altinity/clickhouse-server:25.8.9.20238.altinityantalya
