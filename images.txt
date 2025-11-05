@@ -1,1 +1,1 @@
-docker.io/library/debian:stable-slim:
+debian:stable-slim
