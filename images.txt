@@ -1,1 +1,1 @@
-golang:1.22-alpine
+node:18-alpine
