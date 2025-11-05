@@ -1,1 +1,1 @@
-node:18-alpine
+quay.io/housepower/ckman:v2.4.6
