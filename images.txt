@@ -1,1 +1,1 @@
-quay.io/housepower/ckman:v3.3.0
+clickhouse:25.9.5.21
