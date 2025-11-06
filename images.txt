@@ -1,1 +1,1 @@
-clickhouse:25.9.5.21
+clickhouse/clickhouse-server:25.10
