@@ -1,2 +1,1 @@
-airbyte/workload-init-container:1.7.8
-airbyte/destination-clickhouse:2.1.8
+apache/seatunnel:2.3.12
