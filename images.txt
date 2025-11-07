@@ -1,1 +1,1 @@
-apache/streampark:v2.1.5
+docker.io/library/ubuntu:22.04
