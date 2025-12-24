@@ -1,1 +1,1 @@
-mcr.microsoft.com/mssql/server:2019-latest
+percona/percona-xtrabackup:8.0
