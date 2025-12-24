@@ -1,1 +1,1 @@
-percona/percona-xtrabackup:8.0
+percona/percona-xtrabackup:2.4
