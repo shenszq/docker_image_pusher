@@ -1,1 +1,1 @@
-percona/percona-xtrabackup:2.4
+cturra/ntp:latest
