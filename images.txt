@@ -1,1 +1,1 @@
-ghcr.io/blakeblackshear/frigate:stable
+python:3.11-slim
