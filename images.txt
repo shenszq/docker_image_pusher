@@ -1,1 +1,1 @@
-python:3.11-slim
+percona/percona-xtrabackup:2.4
