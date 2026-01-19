@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2026.1.0
+ubuntu/squid:latest
