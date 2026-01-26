@@ -1,1 +1,1 @@
-advplyr/audiobookshelf:2.32.1
+mcr.microsoft.com/openjdk/jdk:17-ubuntu
