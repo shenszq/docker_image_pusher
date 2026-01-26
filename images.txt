@@ -1,1 +1,2 @@
-dperson/samba
+apache/doris:fe-4.0.2
+apache/doris:be-4.0.2
