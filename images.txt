@@ -1,1 +1,5 @@
-mcr.microsoft.com/openjdk/jdk:17-ubuntu
+maven:3.8.5-openjdk-8
+openjdk:8-jre-alpine
+node:20-alpine
+nginx:alpine
+mysql:8.0
