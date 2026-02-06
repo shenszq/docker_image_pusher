@@ -1,1 +1,1 @@
-rockchin/langbot:latest
+python:3.9-slim
