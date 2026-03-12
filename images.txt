@@ -1,1 +1,1 @@
-alpine/k8s:1.32.11
+vaultwarden/server:1.35.4
