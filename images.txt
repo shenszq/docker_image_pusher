@@ -1,1 +1,1 @@
-postgres:17-alpine
+python:3.10-slim
