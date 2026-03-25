@@ -1,1 +1,1 @@
-searxng/searxng:latest
+docker.io/library/caddy:2-alpine
