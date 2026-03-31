@@ -1,1 +1,1 @@
-python:3.9-slim
+idootop/migpt-next:1.0.0
