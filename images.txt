@@ -1,1 +1,2 @@
-idootop/migpt-next:1.0.0
+node:18-slim
+python:3.10-slim
