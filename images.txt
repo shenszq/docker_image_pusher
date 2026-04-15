@@ -1,2 +1,1 @@
-node:18-slim
-python:3.10-slim
+eceasy/cli-proxy-api:v6.9.25
