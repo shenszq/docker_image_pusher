@@ -1,1 +1,1 @@
-debian:stable-slim
+node:22.12.0
