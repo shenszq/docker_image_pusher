@@ -1,1 +1,1 @@
-node:22.12.0
+eclipse-temurin:8-jre
