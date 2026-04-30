@@ -1,1 +1,1 @@
-eclipse-temurin:8-jre
+seataio/seata-server:1.4.2
