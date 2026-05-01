@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.2.0.1-slim
+apache/doris:operator-25.7.0
