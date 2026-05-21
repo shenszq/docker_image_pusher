@@ -1,1 +1,1 @@
-redis:8.6.3
+verdaccio/verdaccio:6.7
