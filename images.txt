@@ -1,1 +1,1 @@
-ash1410/saphana-docker:hanaexpress
+jtabernero/hanaexpress:2.00.057.00.20220119.1
