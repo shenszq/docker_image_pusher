@@ -1,1 +1,1 @@
-API 调用失败: Error code: 403 - {'error': {'message': 'Access denied. For details, see: https://help.aliyun.com/zh/model-studio/error-code#access-denied', 'type': 'access_denied', 'param': None, 'code': 'access_denied'}, 'id': 'chatcmpl-9dab454f-99d3-9014-8b82-a3bb4a45a995', 'request_id': '9dab454f-99d3-9014-8b82-a3bb4a45a995'}
+python:3.11-slim
