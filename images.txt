@@ -1,1 +1,1 @@
-python:3.11-slim
+alpine/openclaw:2026.6.9
