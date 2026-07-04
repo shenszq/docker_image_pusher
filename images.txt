@@ -1,1 +1,1 @@
-alpine/openclaw:2026.6.9
+portainer/portainer-ce:2.39.4
