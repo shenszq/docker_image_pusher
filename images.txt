@@ -1,1 +1,1 @@
-pgvector/pgvector:pg17
+node:22-alpine
