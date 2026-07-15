@@ -1,1 +1,1 @@
-node:22-alpine
+vaultwarden/server:1.36.0
