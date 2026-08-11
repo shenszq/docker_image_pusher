@@ -1,1 +1,1 @@
-python:3.12-slim-bookworm
+vaultwarden/server:1.37.1
