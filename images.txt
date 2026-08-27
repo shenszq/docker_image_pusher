@@ -1,2 +1,1 @@
-node:20-trixie-slim
-python:3.11.14-slim-trixie
+python:3.13-slim
